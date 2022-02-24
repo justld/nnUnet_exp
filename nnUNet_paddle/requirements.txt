@@ -1,0 +1,6 @@
+scikit-image
+pillow==7.1.2
+numpy==1.17.3
+scipy==1.4.1
+SimpleITK
+nibabel
